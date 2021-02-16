@@ -12,7 +12,7 @@ namespace GameProjectDemo
         
         static void Main(string[] args)
         {
-            //Customer Registration Operations
+            //Customer Registration Operation
 
             Customer customer1 = new Customer();
             customer1.Id = 1;
